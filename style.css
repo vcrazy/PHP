@@ -1,8 +1,0 @@
-body {width: 980px; margin: 0 auto;}
-#player1 {width: 30px; height: 30px; background-color: red; position: absolute; margin-top: 500px;}
-#player2 {width: 30px; height: 30px; background-color: blue; position: absolute; margin-top: 100px; margin-left: 600px;}
-#bullet {border-radius: 10px; background-color: green; width: 20px; height: 20px; position: absolute; margin-top: 505px; margin-left: 5px;}
-.dump {position: absolute; background-color: red; width: 1px; height: 1px;}
-.dumpc {background-color: green; width: 3px; height: 3px;}
-.hidden {display: none;}
-.anim_len {width: 0px;}
